@@ -32,14 +32,23 @@ Note: It has to be as shown below from older to younger for the if-condition to 
 
 #### Insights
 • Since the company started, 1470 employees left.
+
 • There are currently 1200 employees working at Atlas Labs.
+
 • The largest department is the tech department, which is predictable as it’s a software company from the beginning.
+
 • A significant portion of Atlas Labs’ employees fall within the 20-29 age range.
+
 • Women make up the largest employee group at Atlas Labs
+
 • Non-binary employees represent approximately 8.5% of the workforce at Atlas.
+
 • White employees have the highest representation within Atlas Labs. Native Hawaiians have the lowest.
+
 • Even though Native Hawaiians have the lowest representation within Atlas, they are the second in salary ranges right after White employees.
+
 • The highest rate of attrition comes from the sales department.
+
 • Employees that frequent travel, also contribute to a large portion of the attrition rate.
 
 So, the company could conduct interviews or surveys for the sales department to understand why they’re leaving. For frequent travelers, explore the possibility of offering remote work options on non-travel days, or offer programs to help employees manage the stress of travel, such as wellness programs, flexible travel schedules, or access to airport lounges.
