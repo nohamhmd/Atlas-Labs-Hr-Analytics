@@ -1,4 +1,4 @@
-# Atlas Labs | Hr Analytics
+# Atlas Labs | HR Analytics
 
 ## Overview
 
