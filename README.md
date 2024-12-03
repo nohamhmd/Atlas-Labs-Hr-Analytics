@@ -29,6 +29,7 @@ Note: It has to be as shown below from older to younger for the if-condition to 
 ![image](https://github.com/nohamhmd/Atlas-Labs-Hr-Analytics/assets/156810723/4c64f64a-07e1-4981-83a6-75dc0b3c9842)
 
 ### Phase 3 - Data Visualization and Insights
+![Overview](https://github.com/user-attachments/assets/066ba6b3-9915-422e-bc11-c0a1f4e93316)
 
 #### Insights
 • Since the company started, 1470 employees left.
